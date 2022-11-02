@@ -1,0 +1,4 @@
+NV01;77728777;Quản trị viên;Bình thường;1
+NV02;36338778;Nhân viên bán hàng;Bình thường;1
+NV03;73388778;Nhân viên bán hàng;Bình thường;1
+NV04;87338778;Nhân viên bán hàng;Bình thường;1

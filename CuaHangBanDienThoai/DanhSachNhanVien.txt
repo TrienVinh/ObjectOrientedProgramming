@@ -1,0 +1,4 @@
+NV01;Lư Triển Vinh;09/08/2000;Nam;0353631949;329 Lãnh Binh Thăng phường 08 quận 11;1
+NV02;Hồ Thị Kiều Anh;17/11/2002;Nữ;0942346288;10A Tô Ký phường Trung Mỹ quận 12;1
+NV03;Lê Gia Hào;01/12/2002;Nam;0903038364;273 An Dương Vương phường 03 quận 05;1
+NV04;Trần Chánh Quốc Định;20/11/2002;Nam;0793036548;273 An Dương Vương phường 03 quận 05;1

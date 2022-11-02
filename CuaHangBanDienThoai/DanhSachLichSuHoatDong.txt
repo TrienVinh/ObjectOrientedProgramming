@@ -1,0 +1,171 @@
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 11:10
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm nhân viên 'NV02 (Hồ Thị Kiều Anh)' vào danh sách;11/12/2021 - 11:10
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;11/12/2021 - 11:10
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng nhập vào hệ thống;11/12/2021 - 11:10
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' thêm khách hàng 'KH01 (Trịnh Phú Hồng)' vào danh sách;11/12/2021 - 11:10
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng xuất khỏi hệ thống;11/12/2021 - 11:10
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm nhà cung cấp 'NCC01 (FPT Shop)' vào danh sách;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm thương hiệu 'TH01 (Apple)' vào danh sách;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm thương hiệu 'TH02 (Xiaomi)' vào danh sách;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP01 (Iphone 13 Pro Max)' vào danh sách;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP02 (Xiaomi Redmi Note 10)' vào danh sách;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH01';11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;11/12/2021 - 11:19
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng nhập vào hệ thống;11/12/2021 - 11:19
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' lập hóa đơn bán hàng 'HDBH01';11/12/2021 - 11:19
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng xuất khỏi hệ thống;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;11/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 12:04
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm nhà cung cấp 'NCC02 (Thế Giới Di Động)' vào danh sách;11/12/2021 - 12:04
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP03 (Iphone 11)' vào danh sách;11/12/2021 - 12:04
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH02';11/12/2021 - 12:04
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;11/12/2021 - 12:04
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 12:11
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm nhân viên 'NV03 (Lê Gia Hào)' vào danh sách;11/12/2021 - 12:11
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;11/12/2021 - 12:13
+NV03;Nhân viên 'NV03 (Lê Gia Hào)' đăng nhập vào hệ thống;11/12/2021 - 12:22
+NV03;Nhân viên 'NV03 (Lê Gia Hào)' thêm khách hàng 'KH02 (Trương Thanh Phong)' vào danh sách;11/12/2021 - 12:22
+NV03;Nhân viên 'NV03 (Lê Gia Hào)' lập hóa đơn bán hàng 'HDBH02';11/12/2021 - 12:22
+NV03;Nhân viên 'NV03 (Lê Gia Hào)' đăng xuất khỏi hệ thống;11/12/2021 - 12:22
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng nhập vào hệ thống;11/12/2021 - 12:31
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' thêm khách hàng 'KH03 (Trần Minh Long)' vào danh sách;11/12/2021 - 12:31
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' lập hóa đơn bán hàng 'HDBH03';11/12/2021 - 12:31
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng xuất khỏi hệ thống;11/12/2021 - 12:31
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 12:31
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH03';11/12/2021 - 12:31
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm nhân viên 'NV04 (Trần Chánh Quốc Định)' vào danh sách;11/12/2021 - 12:31
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP04 (Xiaomi 11)' vào danh sách;11/12/2021 - 12:31
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm thương hiệu 'TH03 (Samsung)' vào danh sách;11/12/2021 - 12:31
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP05 (Samsung Galaxy A52)' vào danh sách;11/12/2021 - 12:31
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH04';11/12/2021 - 12:31
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;11/12/2021 - 12:31
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng nhập vào hệ thống;11/12/2021 - 12:31
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH04';11/12/2021 - 12:44
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH05';11/12/2021 - 12:45
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng xuất khỏi hệ thống;11/12/2021 - 12:46
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 12:46
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm khuyến mãi 'KM01' vào danh sách;11/12/2021 - 12:47
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;11/12/2021 - 12:48
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 12:48
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;11/12/2021 - 12:48
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng nhập vào hệ thống;11/12/2021 - 12:48
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH06';11/12/2021 - 12:48
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng xuất khỏi hệ thống;11/12/2021 - 12:48
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng nhập vào hệ thống;11/12/2021 - 13:25
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH07';11/12/2021 - 13:25
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH08';11/12/2021 - 13:25
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH09';11/12/2021 - 13:25
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng xuất khỏi hệ thống;11/12/2021 - 13:25
+NV03;Nhân viên 'NV03 (Lê Gia Hào)' đăng nhập vào hệ thống;11/12/2021 - 13:25
+NV03;Nhân viên 'NV03 (Lê Gia Hào)' lập hóa đơn bán hàng 'HDBH10';11/12/2021 - 13:25
+NV03;Nhân viên 'NV03 (Lê Gia Hào)' đăng xuất khỏi hệ thống;11/12/2021 - 13:25
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;11/12/2021 - 14:04
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH05';11/12/2021 - 14:04
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 08:50
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP06 (Samsung Galaxy A72)' vào danh sách;12/12/2021 - 08:50
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP07 (Iphone 12 Mini)' vào danh sách;12/12/2021 - 08:51
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH06';12/12/2021 - 08:52
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH07';12/12/2021 - 08:52
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 08:52
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng nhập vào hệ thống;12/12/2021 - 08:53
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH11';12/12/2021 - 08:54
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập phiếu bảo hành 'PBH01';12/12/2021 - 08:55
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng xuất khỏi hệ thống;12/12/2021 - 08:56
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng nhập vào hệ thống;12/12/2021 - 09:11
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' lập hóa đơn bán hàng 'HDBH12';12/12/2021 - 09:11
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng xuất khỏi hệ thống;12/12/2021 - 09:11
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm khách hàng 'KH04 (Trần Vĩnh Huy)' vào danh sách;12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 09:59
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng nhập vào hệ thống;12/12/2021 - 09:59
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đổi mật khẩu;12/12/2021 - 09:59
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng xuất khỏi hệ thống;12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' phục hồi mật khẩu cho nhân viên 'NV02 (Hồ Thị Kiều Anh)';12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm khuyến mãi 'KM02' vào danh sách;12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH08';12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH13';12/12/2021 - 09:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 10:55
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH09';12/12/2021 - 10:55
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 10:55
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 11:13
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH14';12/12/2021 - 11:13
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 11:13
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 11:14
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH15';12/12/2021 - 11:14
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 11:14
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 11:16
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH16';12/12/2021 - 11:16
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 11:16
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 11:17
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH17';12/12/2021 - 11:17
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH18';12/12/2021 - 11:17
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 11:17
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH19';12/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 11:19
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 11:21
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH20';12/12/2021 - 11:21
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 11:21
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;12/12/2021 - 17:02
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH21';12/12/2021 - 17:03
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;12/12/2021 - 17:05
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng nhập vào hệ thống;15/12/2021 - 12:57
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' lập hóa đơn bán hàng 'HDBH23';15/12/2021 - 12:57
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng xuất khỏi hệ thống;15/12/2021 - 12:59
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;15/12/2021 - 13:11
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH11';15/12/2021 - 13:11
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;15/12/2021 - 13:12
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;16/12/2021 - 07:21
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP08 (Xiaomi Redmi Note 8 Pro)' vào danh sách;16/12/2021 - 07:21
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;16/12/2021 - 07:24
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng nhập vào hệ thống;16/12/2021 - 09:19
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' lập hóa đơn bán hàng 'HDBH24';16/12/2021 - 09:24
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng xuất khỏi hệ thống;16/12/2021 - 09:28
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng nhập vào hệ thống;16/12/2021 - 09:42
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH25';16/12/2021 - 09:42
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' lập hóa đơn bán hàng 'HDBH26';16/12/2021 - 09:43
+NV04;Nhân viên 'NV04 (Trần Chánh Quốc Định)' đăng xuất khỏi hệ thống;16/12/2021 - 09:45
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;17/12/2021 - 16:49
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH12';17/12/2021 - 16:51
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;17/12/2021 - 16:53
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;18/12/2021 - 08:12
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH13';18/12/2021 - 08:16
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH14';18/12/2021 - 08:16
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH15';18/12/2021 - 08:16
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH16';18/12/2021 - 08:30
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' thêm sản phẩm 'SP09 (Iphone 7 Plus)' vào danh sách;18/12/2021 - 08:33
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH27';18/12/2021 - 08:38
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;18/12/2021 - 08:42
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;18/12/2021 - 09:46
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH17';18/12/2021 - 09:46
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;18/12/2021 - 09:47
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;18/12/2021 - 21:22
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH28';18/12/2021 - 21:22
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;18/12/2021 - 21:23
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;18/12/2021 - 21:24
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH29';18/12/2021 - 21:24
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;18/12/2021 - 21:25
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;26/12/2021 - 10:43
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH18';26/12/2021 - 10:43
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;26/12/2021 - 10:51
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;06/01/2022 - 14:45
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH30';06/01/2022 - 15:01
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;06/01/2022 - 15:25
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;03/04/2022 - 11:38
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn bán hàng 'HDBH31';03/04/2022 - 11:43
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH19';03/04/2022 - 11:44
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH20';03/04/2022 - 11:44
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;03/04/2022 - 11:52
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng nhập vào hệ thống;08/04/2022 - 13:23
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' lập hóa đơn bán hàng 'HDBH32';08/04/2022 - 13:24
+NV02;Nhân viên 'NV02 (Hồ Thị Kiều Anh)' đăng xuất khỏi hệ thống;08/04/2022 - 13:24
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;19/05/2022 - 13:34
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;19/05/2022 - 13:35
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng nhập vào hệ thống;16/08/2022 - 09:23
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' lập hóa đơn nhập hàng 'HDNH21';16/08/2022 - 09:26
+NV01;Nhân viên 'NV01 (Lư Triển Vinh)' đăng xuất khỏi hệ thống;16/08/2022 - 09:28

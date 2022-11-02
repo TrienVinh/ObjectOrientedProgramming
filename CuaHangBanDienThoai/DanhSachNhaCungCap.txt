@@ -1,0 +1,3 @@
+NCC01;FPT Shop;4;18006601;305 Tô Hiến Thành phường 13 quận 10;1
+NCC02;Thế Giới Di Động;4;18001060;281K Lãnh Binh Thăng phường 08 quận 11;1
+NCC03;CellphoneS;1;18002097;212 Cách Mạng Tháng Tám phường 10 quận 10;1

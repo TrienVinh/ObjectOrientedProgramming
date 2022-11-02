@@ -1,0 +1,3 @@
+TH01;Apple;Mỹ;1
+TH02;Xiaomi;Trung Quốc;1
+TH03;Samsung;Hàn Quốc;1
